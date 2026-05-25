@@ -1,0 +1,29 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local/system files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Data
+data/raw/
+data/processed/
+
+# Generated outputs
+outputs/charts/*.png
+outputs/tables/*.csv
+outputs/reports/*.pdf
+
+# Optional logs
+*.log
