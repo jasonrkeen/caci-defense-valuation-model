@@ -3,7 +3,7 @@
 A Python-based equity valuation, defense technology intelligence, risk analytics, forecasting, risk modeling, and automated reporting project for **CACI International Inc. (NYSE: CACI)**.
 
 **Author:** Jason Keen  
-**Contact:** keenjasonr@gmail.com
+**Contact:** [LinkedIn](https://www.linkedin.com/in/jason-keen-1887b4218)
 
 This project combines market data, peer benchmarking, discounted cash flow valuation, defense contractor stress testing, Monte Carlo simulation, GARCH/EWMA volatility and VaR modeling, defense equity factor exposure modeling, analyst estimate collection, government spending signals, defense macro analysis, source auditing, news intelligence, expected return modeling, run-to-run change detection, and a final LinkedIn-ready PDF research report.
 
